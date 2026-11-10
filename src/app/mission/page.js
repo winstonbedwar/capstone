@@ -23,10 +23,14 @@ export default function Mission() {
             <div className={styles.missionHeroCopy}>
               <Copy animateOnScroll={false} delay={1.5}>
                 <h2>
-                  Adhesive wearables damage healing skin. Duoband gives
-                  immunocompromised adults with deep wounds a dressing that
-                  watches the immune response at the wound, so infection is
-                  caught at home before symptoms show.
+                  DuoBand is a medical wearable for immunocompromised or
+                  vulnerable patients that constantly monitors pH, moisture, and
+                  temperature during the healing process. DuoBand presents
+                  potential in both home and hospital environments, including
+                  active monitoring by nurses or the patient using AI-driven
+                  data analysis. As such, DuoBand acts to detect and prevent
+                  sepsis before it worsens by automatically dispensing
+                  antibiotics to the injury site.
                 </h2>
               </Copy>
 
