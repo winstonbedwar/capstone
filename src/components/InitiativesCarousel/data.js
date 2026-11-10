@@ -32,7 +32,7 @@ export const initiatives = [
   {
     year: "06",
     name: "Mount electronics",
-    image: "/images/img6.jpg",
+    image: "/images/img6A.png",
     href: "/initiatives/detail",
   },
   {
